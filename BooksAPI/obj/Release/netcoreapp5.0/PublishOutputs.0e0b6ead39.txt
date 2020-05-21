@@ -1,0 +1,9 @@
+C:\Users\rnalluri\AppData\Local\Temp\mnwev5xo.5r4\BooksAPI.exe
+C:\Users\rnalluri\AppData\Local\Temp\mnwev5xo.5r4\appsettings.Development.json
+C:\Users\rnalluri\AppData\Local\Temp\mnwev5xo.5r4\appsettings.json
+C:\Users\rnalluri\AppData\Local\Temp\mnwev5xo.5r4\BooksAPI.dll
+C:\Users\rnalluri\AppData\Local\Temp\mnwev5xo.5r4\BooksAPI.deps.json
+C:\Users\rnalluri\AppData\Local\Temp\mnwev5xo.5r4\BooksAPI.runtimeconfig.json
+C:\Users\rnalluri\AppData\Local\Temp\mnwev5xo.5r4\BooksAPI.pdb
+C:\Users\rnalluri\AppData\Local\Temp\mnwev5xo.5r4\Books.Shared.dll
+C:\Users\rnalluri\AppData\Local\Temp\mnwev5xo.5r4\Books.Shared.pdb

@@ -1,0 +1,9 @@
+C:\Users\rnalluri\AppData\Local\Temp\fa22gbzu.ysr\BooksAPI.exe
+C:\Users\rnalluri\AppData\Local\Temp\fa22gbzu.ysr\appsettings.Development.json
+C:\Users\rnalluri\AppData\Local\Temp\fa22gbzu.ysr\appsettings.json
+C:\Users\rnalluri\AppData\Local\Temp\fa22gbzu.ysr\BooksAPI.dll
+C:\Users\rnalluri\AppData\Local\Temp\fa22gbzu.ysr\BooksAPI.deps.json
+C:\Users\rnalluri\AppData\Local\Temp\fa22gbzu.ysr\BooksAPI.runtimeconfig.json
+C:\Users\rnalluri\AppData\Local\Temp\fa22gbzu.ysr\BooksAPI.pdb
+C:\Users\rnalluri\AppData\Local\Temp\fa22gbzu.ysr\Books.Shared.dll
+C:\Users\rnalluri\AppData\Local\Temp\fa22gbzu.ysr\Books.Shared.pdb

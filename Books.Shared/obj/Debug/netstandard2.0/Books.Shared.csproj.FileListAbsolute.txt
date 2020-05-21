@@ -1,9 +1,0 @@
-C:\projects\learning\git\myprojects\tyesample\Books.Shared\obj\Debug\netstandard2.0\Books.Shared.csprojAssemblyReference.cache
-C:\projects\learning\git\myprojects\tyesample\Books.Shared\obj\Debug\netstandard2.0\Books.Shared.AssemblyInfoInputs.cache
-C:\projects\learning\git\myprojects\tyesample\Books.Shared\obj\Debug\netstandard2.0\Books.Shared.AssemblyInfo.cs
-C:\projects\learning\git\myprojects\tyesample\Books.Shared\obj\Debug\netstandard2.0\Books.Shared.csproj.CoreCompileInputs.cache
-C:\projects\learning\git\myprojects\tyesample\Books.Shared\obj\Debug\netstandard2.0\Books.Shared.dll
-C:\projects\learning\git\myprojects\tyesample\Books.Shared\obj\Debug\netstandard2.0\Books.Shared.pdb
-C:\projects\learning\git\myprojects\tyesample\Books.Shared\bin\Debug\netstandard2.0\Books.Shared.deps.json
-C:\projects\learning\git\myprojects\tyesample\Books.Shared\bin\Debug\netstandard2.0\Books.Shared.dll
-C:\projects\learning\git\myprojects\tyesample\Books.Shared\bin\Debug\netstandard2.0\Books.Shared.pdb
